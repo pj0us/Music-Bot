@@ -1,0 +1,28 @@
+{
+  "name": "piemusic",
+  "version": "1.0.0",
+  "description": "Pious#2712",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Pious#2712",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "figlet": "^1.5.0",
+    "lyrics-finder": "^21.7.0",
+    "node.js": "0.0.1-security",
+    "quick.db": "^7.1.3",
+    "string-progressbar": "^1.0.4",
+    "youtube-sr": "^4.1.7",
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
