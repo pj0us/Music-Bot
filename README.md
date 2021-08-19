@@ -1,2 +1,3 @@
 # Music-Bot
-Music Bot Using Discord.js v12.5.3
+Music Bot With Custom Prefix Using Discord.js v12.5.3
+Default Prefix is !
