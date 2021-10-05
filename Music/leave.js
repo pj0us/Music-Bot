@@ -1,7 +1,7 @@
 ////////////////////////////
 //////CONFIG LOAD///////////
 ////////////////////////////
-const { canModifyQueue } = require("../util/MilratoUtil");
+const { canModifyQueue } = require("../util/Util");
 const { Client, Collection, MessageEmbed } = require("discord.js");
 const { prf } = require(`../config.json`);
 const { attentionembed } = require("../util/attentionembed"); 
