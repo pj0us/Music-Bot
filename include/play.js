@@ -3,7 +3,7 @@
 ////////////////////////////
 const ytdl_dis = require("ytdl-core-discord");
 const ytdl = require("discord-ytdl-core");
-const { canModifyQueue } = require("../util/MilratoUtil");
+const { canModifyQueue } = require("../util/Util");
 const { Client, Collection, MessageEmbed, splitMessage, escapeMarkdown,MessageAttachment } = require("discord.js");
 const { attentionembed } = require("../util/attentionembed"); 
 const progressbar = require("string-progressbar");
