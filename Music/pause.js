@@ -1,4 +1,4 @@
-const { canModifyQueue } = require("../util/MilratoUtil");
+const { canModifyQueue } = require("../util/Util");
 const { Client, Collection, MessageEmbed } = require("discord.js");
 
 const { attentionembed } = require("../util/attentionembed"); 
